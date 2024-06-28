@@ -33,9 +33,11 @@ h3 {
 }
 
 h4 {
-  font-size: ;
+  font-size: '1.2rem';
 }
-.greetings h1,
+.greetings {
+  text-align: center;
+}
 .greetings h3 {
   text-align: center;
 }
